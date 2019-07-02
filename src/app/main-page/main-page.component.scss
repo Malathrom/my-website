@@ -1,0 +1,29 @@
+.mainContainer {
+  margin: auto;
+  padding: 20px;
+  max-width: 800px;
+}
+
+.socialButton {
+  background: rgb(29, 29, 29);
+  color: white;
+  font-size: 25px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  transition: opacity 0.2s;
+  cursor: pointer;
+  display: inline-block;
+  margin:0 3px;
+}
+.socialButton:hover{
+    opacity: 0.85;
+}
+
+.youtubeFrame{
+    width:350px;
+    height:200px;
+    display: inline-block;
+    margin: 10px;
+}
